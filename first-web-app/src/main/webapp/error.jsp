@@ -10,6 +10,7 @@
 </head>
 <body>
 <h2>Exception occurred while processing the request</h2>
+<p>ЭТО НУЖНО БЫЛО СДЕЛАТЬ????????</p>
 <p>Type: <%= exception%></p>
 <p>Message: <%= message %></p>
 </body>
